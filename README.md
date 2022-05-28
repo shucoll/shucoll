@@ -1,17 +1,16 @@
 # Hi there, I'm Shuvam
 
-<div width="100%" display='flex' flex-direction='column'>
-<img alt="Developer" align-self="center" width="40%" max-width="300" src="./img/developer.svg" /></div>
-</div>
+<img align='right' alt="Developer" width="40%" max-width="300" src="./img/developer.svg" />
 
-<br/>
-
-I'm a software engineering student, fullstack developer and a ML enthusiast who loves creating awesome things on the web.
+<p align='left'>I'm a software engineering student, fullstack developer and a ML enthusiast who loves creating awesome things on the web.
 
 - ⚡️ I'm constantly learning about new technologies and trends
 - 🌱 Currently learning more about DevOps and ML
-- 🥅 2022 Goal: Contributing to Open Source
+- 🥅 2022 Goal: Contribute to Open Source
 - 📬 Reach me at hello@shucoll.com
+</p>
+
+<br/>
 
 ### Find me on the web
 
@@ -50,7 +49,7 @@ I'm a software engineering student, fullstack developer and a ML enthusiast who 
 
 ## Github Stats
 
-<img align="left" alt="shucoll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shucoll&show_icons=true&hide_border=false&title_color=92DCE5&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />&nbsp;
+<img align="left" alt="shucoll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shucoll&show_icons=true&hide_border=false&title_color=92DCE5&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shucoll&&hide_border=false&background=09131B&border=0c1a25&ring=92DCE5&fire=FFE400&currStreakNum=92DCE5&sideNums=92DCE5&currStreakLabel=FFE400&sideLabels=FFE400&dates=ffffff" alt="shucoll" />
 
 <!--
