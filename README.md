@@ -49,6 +49,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB transactions in Node.js using Mongoose](https://dev.to/shucoll/mongodb-transactions-in-nodejs-using-mongoose-1nd0)
+- [Design workflow tips for developers](https://dev.to/shucoll/design-workflow-for-developers-4p75)
+- [Create a modern blogging application with Next.js and Editor.js](https://dev.to/shucoll/create-a-modern-blogging-application-with-next-js-and-editor-js-43e3)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
