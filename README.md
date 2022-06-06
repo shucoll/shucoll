@@ -47,8 +47,12 @@
 <br />
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Github Stats
 
 <img align="right" width="46%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shucoll&&hide_border=false&background=09131B&border=0c1a25&ring=92DCE5&fire=FFE400&currStreakNum=92DCE5&sideNums=92DCE5&currStreakLabel=FFE400&sideLabels=FFE400&dates=ffffff" alt="shucoll" />
 
-<img align="left" width="46%" alt="shucoll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shucoll&show_icons=true&hide_border=false&title_color=92DCE5&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" width="46%" alt="shucoll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shucoll&count_private=true&show_icons=true&hide_border=false&title_color=92DCE5&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
