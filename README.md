@@ -7,7 +7,7 @@
 - ⚡️ I'm constantly learning about new technologies and trends
 - 🌱 Currently learning more about DevOps and ML
 - 🥅 2022 Goal: Contribute to Open Source
-- 📬 Reach me at hello@shucoll.com
+- 📬 Reach me hello@shucoll.com
 </p>
 
 <br/>
@@ -47,7 +47,7 @@
 <br />
 <br />
 
-### Blog posts
+### 📺 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [MongoDB transactions in Node.js using Mongoose](https://dev.to/shucoll/mongodb-transactions-in-nodejs-using-mongoose-1nd0)
 - [Design workflow tips for developers](https://dev.to/shucoll/design-workflow-for-developers-4p75)
@@ -58,4 +58,4 @@
 
 <img align="right" width="46%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shucoll&&hide_border=false&background=09131B&border=0c1a25&ring=92DCE5&fire=FFE400&currStreakNum=92DCE5&sideNums=92DCE5&currStreakLabel=FFE400&sideLabels=FFE400&dates=ffffff" alt="shucoll" />
 
-<img align="left" width="46%" alt="shucoll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shucoll&count_private=true&show_icons=true&hide_border=false&title_color=92DCE5&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" width="46%" alt="shucoll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shucoll&count_private=true&include_all_commits=true&show_icons=true&hide_border=false&title_color=92DCE5&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
