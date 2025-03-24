@@ -5,7 +5,6 @@
 <p align='left'>I'm a software engineering undergrad researching on NLP, computational social science and multilingual NLP.
 
 - ⚡️  Currently I'm working on multi-modal social data analysis
-- 🥅 2024 Goal: Begin my graduate studies
 - 📬 Reach me hello@shucoll.com
 </p>
 
